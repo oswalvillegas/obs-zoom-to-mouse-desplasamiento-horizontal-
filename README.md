@@ -22,7 +22,7 @@ Un script en **Lua** para **OBS Studio** que extiende la funcionalidad clásica 
 
 Mira este video paso a paso para aprender a instalar el script, vincular tu fuente de captura y configurar tus atajos de teclado en menos de 3 minutos:
 
-[![Tutorial de Instalación OBS Zoom to Mouse](https://img.youtube.com/vi/ID_DE_TU_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_DE_TU_VIDEO)
+[![Tutorial de Instalación OBS Zoom to Mouse](https://img.youtube.com/vi/ID_DE_TU_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=6_D9pu5BXWk)
 
 > 💡 **Nota para el autor:** Reemplaza `ID_DE_TU_VIDEO` en el enlace de arriba con el identificador de tu video en YouTube (por ejemplo, si tu enlace es `https://youtu.be/dQw4w9WgXcQ`, el ID es `dQw4w9WgXcQ`).
 
